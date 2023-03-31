@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MatricNo" type="xs:string" minOccurs="0" />
+              <xs:element name="StudName" type="xs:string" minOccurs="0" />
+              <xs:element name="SchoolName" type="xs:string" minOccurs="0" />
+              <xs:element name="Dept" type="xs:string" minOccurs="0" />
+              <xs:element name="Lev" type="xs:string" minOccurs="0" />
+              <xs:element name="Sem" type="xs:string" minOccurs="0" />
+              <xs:element name="CCode" type="xs:string" minOccurs="0" />
+              <xs:element name="CTitle" type="xs:string" minOccurs="0" />
+              <xs:element name="Total_att" type="xs:string" minOccurs="0" />
+              <xs:element name="Sess" type="xs:string" minOccurs="0" />
+              <xs:element name="Att_Per" type="xs:string" minOccurs="0" />
+              <xs:element name="Tot_Class" type="xs:string" minOccurs="0" />
+              <xs:element name="Att_Type" type="xs:string" minOccurs="0" />
+              <xs:element name="LectName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

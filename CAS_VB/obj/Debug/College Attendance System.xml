@@ -1,0 +1,691 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+College Attendance System
+</name>
+</assembly>
+<members>
+<member name="T:CAS_VB.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources._1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources._1__16_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources._1425837994checkIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources._2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources._2cwcww">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources._2ewww">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources._3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources._3www">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources._4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources._6yoiA">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources._8589130422101_back_to_school_wallpaper_hd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources._884410_school_wallpaper">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.abstract_set_awesome_1449569">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Actions_help_about_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Activate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.add_stock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.all_things_of_studies_back_to_school">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.back_to_school">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.back_to_school_powerpoint_backgrounds">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.basket_full_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.bg_student3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Books_2_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.boy_kid_glasses_blackboard_school_hd_wallpaper_1920x1080">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Button_Delete_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Button_Ok_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.calc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Clipboard_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.custom_reports_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Database">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Database_Active_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.database_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Doc___Google_Docs">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.engineer_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.find_customer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.gnome_panel_force_quit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.help_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.icon_documentation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.image1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.image2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.images_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.images_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.images_6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.images1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.images11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.index2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.kcK56zncj">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.log_1281">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Login_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.login_icon__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.logout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Logout_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Logs">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Logs1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Money">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.money0012">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.MS_Word_2_icon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.new_customers">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Notepad1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.payment_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.photo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.register">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.register1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.register2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.reports">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.reports_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.result1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.School_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.School001">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.schoolhouse">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Student_3_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.task_manager1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.teacher_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.top_image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.university_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.unnamed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.user_regestration">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Utilities_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Utilities_icon__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.Wordpad_icon__Windows_7_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CAS_VB.My.Resources.Resources.ycard_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.AttendanceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.AttendanceMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.AttendancePrintDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.AttendanceTypeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.CoursesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.CStudyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.DepartmentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.LecturersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.SchoolsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.StudentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.UsersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.AttendanceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.AttendanceMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.AttendancePrintRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.AttendanceTypeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.CoursesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.CStudyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.DepartmentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.LecturersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.SchoolsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.StudentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.UsersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.AttendanceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.AttendanceMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.AttendancePrintRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.AttendanceTypeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.CoursesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.CStudyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.DepartmentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.LecturersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.SchoolsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.StudentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSet.UsersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSetTableAdapters.AttendanceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSetTableAdapters.AttendanceMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSetTableAdapters.AttendancePrintTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSetTableAdapters.AttendanceTypeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSetTableAdapters.CoursesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSetTableAdapters.CStudyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSetTableAdapters.DepartmentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSetTableAdapters.LecturersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSetTableAdapters.SchoolsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSetTableAdapters.StudentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSetTableAdapters.UsersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CAS_VB.CASDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CAS_VB.CASDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CAS_VB.CASDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CAS_VB.CASDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CAS_VB.CASDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CAS_VB.CASDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CAS_VB.CASDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CAS_VB.CASDataSetTableAdapters.TableAdapterManager.UpdateAll(CAS_VB.CASDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CAS_VB.CASDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
